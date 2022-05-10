@@ -10,4 +10,4 @@ From [the Skillfactory course](https://skillfactory.ru/data-scientist-pro )
 
 * [Проект 2: Churn](https://github.com/piviki/skillfactory_DS/tree/main/project_2)
 
-* [Проект 3: hh](https://github.com/piviki/skillfactory_DS/blob/main/hh_project.ipynb)
+* [Проект 3: hh](https://github.com/piviki/SF_DS/tree/main/project_3)
